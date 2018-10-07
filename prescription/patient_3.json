@@ -1,8 +1,26 @@
 {
     "id": 3,
-    "cover_url": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture/cover_3.jpg",
-    "full_name": "Angelina Johnston",
-    "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
-    "followers": 2700,
-    "email": "dmendoza@zoomzone.gov"
+    "firstname": "Angelina",
+    "lastname":"Johnston",
+    "DOB": "1981-01-03",
+    "gender": "female",
+    "email": "dmendoza@zoomzone.gov",
+    "aadharID": "1234 2342 2342 3432",
+    "phones":[
+      {
+        "type": "cell",
+        "number":  "+9134535345435"
+      },
+      {
+        "type": "home",
+        "number": "+918065657592"
+      }
+    ],
+    "units": "metric",
+    "address1": "",
+    "address2":"",
+    "city":"",
+    "state":"",
+    "country":"",
+    "pincode":""
 }

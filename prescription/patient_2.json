@@ -1,8 +1,26 @@
 {
     "id": 2,
-    "cover_url": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture/cover_2.jpg",
-    "full_name": "Peter Graham",
-    "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
-    "followers": 7019,
-    "email": "jward@shuffledrive.mil"
+    "firstname": "Peter",
+    "lastname":"Graham",
+    "DOB": "1981-01-02",
+    "gender": "male",
+    "email": "jward@shuffledrive.mil",
+    "aadharID": "1234 2342 2342 3432",
+    "phones":[
+      {
+        "type": "cell",
+        "number":  "+9134535345435"
+      },
+      {
+        "type": "home",
+        "number": "+918065657592"
+      }
+    ],
+    "units": "metric",
+    "address1": "",
+    "address2":"",
+    "city":"",
+    "state":"",
+    "country":"",
+    "pincode":""
 }

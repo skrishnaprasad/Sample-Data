@@ -1,8 +1,27 @@
 {
     "id": 9,
-    "cover_url": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture/cover_3.jpg",
-    "full_name": "Scott Matt",
-    "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
-    "followers": 3442,
-    "email": "wwelch@yodo.info"
+    "firstname": "Scott",
+    "lastname":"Matt",
+    "DOB": "1991-01-03",
+    "gender": "male",
+    "email": "wwelch@yodo.info",
+    "aadharID": "1234 2342 2342 3432",
+    "phones":[
+      {
+        "type": "cell",
+        "number":  "+9134535345435"
+      },
+      {
+        "type": "home",
+        "number": "+918065657592"
+      }
+    ],
+    "units": "metric",
+    "address1": "",
+    "address2":"",
+    "city":"",
+    "state":"",
+    "country":"",
+    "pincode":""
+
 }

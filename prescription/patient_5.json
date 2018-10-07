@@ -1,8 +1,27 @@
 {
     "id": 5,
-    "cover_url": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture/cover_1.jpg",
-    "full_name": "Victor Wallace",
-    "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
-    "followers": 5664,
-    "email": "whenderson@voomm.info"
+    "firstname": "Victor",
+    "lastname":"Wallace",
+    "DOB": "1982-01-03",
+    "gender": "male",
+    "email": "whenderson@voomm.info",
+    "aadharID": "1234 2342 2342 3432",
+    "phones":[
+      {
+        "type": "cell",
+        "number":  "+9134535345435"
+      },
+      {
+        "type": "home",
+        "number": "+918065657592"
+      }
+    ],
+    "units": "metric",
+    "address1": "",
+    "address2":"",
+    "city":"",
+    "state":"",
+    "country":"",
+    "pincode":""
+
 }

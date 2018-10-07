@@ -1,8 +1,27 @@
 {
     "id": 7,
-    "cover_url": "https://raw.githubusercontent.com/android10/Sample-Data/master/Android-CleanArchitecture/cover_1.jpg",
-    "full_name": "Jack Daniels",
-    "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-    "followers": 3945,
-    "email": "tjohnson@zoonoodle.biz"
+    "firstname": "Jack",
+    "lastname":"Daniels",
+    "DOB": "2001-04-03",
+    "gender": "male",
+    "email": "tjohnson@zoonoodle.biz",
+    "aadharID": "1234 2342 2342 3432",
+    "phones":[
+      {
+        "type": "cell",
+        "number":  "+9134535345435"
+      },
+      {
+        "type": "home",
+        "number": "+918065657592"
+      }
+    ],
+    "units": "metric",
+    "address1": "",
+    "address2":"",
+    "city":"",
+    "state":"",
+    "country":"",
+    "pincode":""
+
 }
